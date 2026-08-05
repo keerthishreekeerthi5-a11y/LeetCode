@@ -8,6 +8,7 @@ My LeetCode solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -15,6 +16,7 @@ My LeetCode solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -23,5 +25,14 @@ My LeetCode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
