@@ -15,6 +15,7 @@ My LeetCode solutions
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3948-lexicographically-maximum-mex-array) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ My LeetCode solutions
 | [0053-maximum-subarray](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0053-maximum-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +65,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [3948-lexicographically-maximum-mex-array](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3948-lexicographically-maximum-mex-array) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -80,4 +83,20 @@ My LeetCode solutions
 |  |
 | ------- |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Binary Search
+|  |
+| ------- |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 <!---LeetCode Topics End-->
