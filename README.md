@@ -29,6 +29,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0190-reverse-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
