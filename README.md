@@ -73,6 +73,7 @@ My LeetCode solutions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0007-reverse-integer) |
 | [3945-digit-frequency-score](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
