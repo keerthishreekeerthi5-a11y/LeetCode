@@ -24,6 +24,7 @@ My LeetCode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
@@ -89,6 +90,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0125-valid-palindrome) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Backtracking
 |  |
