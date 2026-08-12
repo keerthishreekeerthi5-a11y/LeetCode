@@ -10,6 +10,7 @@ My LeetCode solutions
 | [0027-remove-element](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -35,4 +36,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
