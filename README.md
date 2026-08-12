@@ -14,6 +14,7 @@ My LeetCode solutions
 | [0283-move-zeroes](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0283-move-zeroes) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,8 +49,14 @@ My LeetCode solutions
 |  |
 | ------- |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Greedy
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3948-lexicographically-maximum-mex-array) |
+## Queue
+|  |
+| ------- |
+| [3948-lexicographically-maximum-mex-array](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3948-lexicographically-maximum-mex-array) |
 <!---LeetCode Topics End-->
