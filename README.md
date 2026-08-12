@@ -32,6 +32,7 @@ My LeetCode solutions
 | [0042-trapping-rain-water](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0053-maximum-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -45,6 +46,7 @@ My LeetCode solutions
 | ------- |
 | [0136-single-number](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0136-single-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +66,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [3945-digit-frequency-score](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3945-digit-frequency-score) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
