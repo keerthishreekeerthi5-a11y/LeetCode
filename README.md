@@ -49,6 +49,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3945-digit-frequency-score](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3945-digit-frequency-score) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Greedy
 |  |
@@ -59,4 +60,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [3948-lexicographically-maximum-mex-array](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3948-lexicographically-maximum-mex-array) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
