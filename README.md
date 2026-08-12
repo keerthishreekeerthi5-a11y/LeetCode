@@ -74,6 +74,7 @@ My LeetCode solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0007-reverse-integer) |
 | [3945-digit-frequency-score](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Enumeration
@@ -108,4 +109,12 @@ My LeetCode solutions
 |  |
 | ------- |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/keerthishreekeerthi5-a11y/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
